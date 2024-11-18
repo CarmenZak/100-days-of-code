@@ -1,22 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day 1: 18 Nov 2024
+<!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started the Cat Photo app focussing on html
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Started the Cat Photo App which is nice and simple and a good refresher in html. I remembered some of the structure but need to make sure I remember to use the > symbol when doing anchor links after the url link! 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Cat App] https://github.com/CarmenZak/100-days-of-code/commit/c8eefb7ad609a0120eb40e14978dd7475f72aa5f 
 
-### Day 0: February 30, 2016 (Example 2)
+<!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
 ### Day 1: June 27, Monday
