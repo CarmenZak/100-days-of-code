@@ -9,17 +9,16 @@ Day 1: 18 Nov 2024
 
 **Link to work:** [Cat App] https://github.com/CarmenZak/100-days-of-code/commit/c8eefb7ad609a0120eb40e14978dd7475f72aa5f 
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<Day 2: 19 Nov 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Carried on with developing app with html including adding figure captions and creating a form with radio and checkbox buttons.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I built on my previous html knowledge by adding in figure captions and creating a form. There are lots of elements to think about with form input (type, id, name, value) so need to practise more.
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Link(s) to work**: [Cat App] https://github.com/CarmenZak/100-days-of-code/commit/c8eefb7ad609a0120eb40e14978dd7475f72aa5f  
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -27,4 +26,4 @@ Day 1: 18 Nov 2024
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
