@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 1: 18 Nov 2024
-<!-- ##### (delete me or comment me out) -->
+### Day 1: 18 Nov 2024
 
 **Today's Progress**: Started the Cat Photo app focussing on html
 
@@ -9,7 +8,7 @@ Day 1: 18 Nov 2024
 
 **Link to work:** [Cat App] https://github.com/CarmenZak/100-days-of-code/commit/c8eefb7ad609a0120eb40e14978dd7475f72aa5f 
 
-<Day 2: 19 Nov 2024
+### Day 2: 19 Nov 2024
 
 **Today's Progress**: Carried on with developing app with html including adding figure captions and creating a form with radio and checkbox buttons.
 
@@ -18,12 +17,23 @@ Day 1: 18 Nov 2024
 **Link(s) to work**: [Cat App] https://github.com/CarmenZak/100-days-of-code/commit/c8eefb7ad609a0120eb40e14978dd7475f72aa5f  
 
 
-<!-- ### Day 1: June 27, Monday
+### Day 3: 20 Nov 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I created a new repo for the Cat Photo App and finished off the app (yay!)by adding `label for` and other elements to format the checkboxes on the form.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I struggled adding the `label for` element to the checkboxes as I couldnt figure out where they went and when I got it it felt great!
+
+**Link(s) to work**   https://carmenzak.github.io/Cat-Photo-App/
+
+
+
+### Day 4:  Nov 2024
+
+**Today's Progress**:
+
+**Thoughts**
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+<!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
