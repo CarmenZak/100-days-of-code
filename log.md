@@ -27,7 +27,16 @@
 
 
 
-### Day 4:  Nov 2024
+### Day 4: 21 Nov 2024
+
+**Today's Progress**: Started the second project: cafe menu
+
+**Thoughts**: The start (index.html) went well but then I hit problems with css trying to sort out the background-image...syntax errors! I'll get there...
+
+**Link(s) to work**Cafe Menu
+
+
+### Day 5: 22 Nov 2024
 
 **Today's Progress**:
 
