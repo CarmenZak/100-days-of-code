@@ -38,11 +38,11 @@
 
 ### Day 5: 22 Nov 2024
 
-**Today's Progress**:
+**Today's Progress**: I added content to my cafe menu and more detailed css styling. I specifically added class values to items for css styling and added margins and padding to improve layout.
 
-**Thoughts**
+**Thoughts** I really enjoyed this today- I felt confident in what I was doing! I could spot my own mistakes quickly (although it was more straight forward today)
 
-**Link(s) to work**
+**Link(s) to work** https://carmenzak.github.io/Cafe-Menu/ 
 
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
