@@ -44,5 +44,14 @@
 
 **Link(s) to work** https://carmenzak.github.io/Cafe-Menu/ 
 
+Day 6: 23 Nov 2024
+
+**Today's Progress**: I added further css styling to my cafe menu and `hr` elements to separate the sections. I specifically added margins, 
+altered font and font size; added padding. I solved a link error.
+
+**Thoughts**: It was great to see the difference that adding padding and margins makes. It was good to practise changing box width so that it displays better.
+
+**Link(s) to work** https://carmenzak.github.io/Cafe-Menu/ 
+
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
